@@ -1,9 +1,8 @@
 <template>
   <div id="app">
     <HeaderBar />
-    <div class="main-section content-title-group">
+    <div class="main-section columns">
       <h2 class="title">Heroes</h2>
-      <div>We'll start here</div>
     </div>
   </div>
 </template>
